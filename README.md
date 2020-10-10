@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Android and Web application developer with different aptitudes. The region of my experience incorporates, however not constrained to android and web development, support, internet business developments. My most grounded aptitudes are Kotlin, PHP, Wordpress, HTML/CSS. I spend a large amount of my free time exploring the latest technology advancements in the software development and various applications development world...specially in Ethical hacking (Penetration Testing) to learn something new.
+I'm an Android and Web application developer with different aptitudes. The region of my experience incorporates, however not constrained to android and web development, support, internet business developments. My most grounded aptitudes are Kotlin, PHP, Wordpress, HTML/CSS. I spend a large amount of my free time exploring the latest technology advancements in the software development and various applications development world...specially in Ethical hacking (Penetration Testing) to learn something new.
 
 <!--
 - 👨 Know more about me at Sourcerer
