@@ -24,19 +24,19 @@ I spend a large amount of my free time exploring the latest technology advanceme
 - 👨 Know more about me at [Sourcerer](https://shubhamp98.github.io/)
 
 ---
-- ⚡ Stack i use:
+## ⚡ Stack i use:
 
 <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=google-cloud&logoColor=white&style=for-the-badge" />
 
 ---
 
-- 😇 My Github Stats:
+## 😇 My Github Stats:
 
 [![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhamp98&include_all_commits=true&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamp98&theme=algolia&layout=compact)](http://shubhamp98.github.io/)
 
 ---
 
-- 🤖 My programming stats:
+## 🤖 My programming stats:
 ##### Coming soon...
 <!--
 [![Shubham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shubhamp98)](https://github.com/anuraghazra/github-readme-stats)
