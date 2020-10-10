@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I am a developer who is passionate about stuff like Android and Web application development. Few tech that I enjoy working in are Kotlin, PHP, Firebase, MongoDB and Wordpress. 
 I spend a large amount of my free time exploring the latest technology advancements in the software development and various applications development world...specially in Ethical hacking (Penetration Testing) to learn something new.
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset in Android application development.
+- 👨🏽‍💻 Currently working, learning and growing my skill set in Android application development.
 - 🤝 Open for collaborations in Android (Kotlin) and Web Application development.
 - 🌐 Visit my ***[porfolio website](https://shubhamp98.github.io/)*** for complete background and contact.
 - 👨 Know more about me at [Sourcerer](https://shubhamp98.github.io/)
