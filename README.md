@@ -20,4 +20,5 @@ I'm a Android and Web application developer with different aptitudes. The region
 <!--
 - 👨 Know more about me at Sourcerer
 -->
+- 👨🏽‍💻 Currently working, learning and growing my skillset in Android application development.
 - 🌐 Visit my porfolio website for complete background and contact.
