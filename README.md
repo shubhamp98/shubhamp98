@@ -32,7 +32,7 @@ I spend a large amount of my free time exploring the latest technology advanceme
 
 ## 😇 My Github Stats:
 
-[![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhamp98&include_all_commits=true&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamp98&theme=algolia&layout=compact)](http://shubhamp98.github.io/)
+[![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhamp98&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&hide=contribs&hide_border=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamp98&theme=algolia&layout=compact)](http://shubhamp98.github.io/)
 
 ---
 
@@ -40,4 +40,10 @@ I spend a large amount of my free time exploring the latest technology advanceme
 ##### Coming soon...
 <!--
 [![Shubham's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shubhamp98)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+## 💬 Social media and other stuffs: 
+##### Coming soon...
+<!--
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
 -->
