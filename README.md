@@ -22,7 +22,7 @@ I spend a large amount of my free time exploring the latest technology advanceme
 
 - 👨🏽‍💻 Currently working, learning and growing my skill set in Android application development.
 - 🤝 Open for collaborations in Android (Kotlin) and Web Application development.
-- 🌐 Visit my ***[porfolio website](https://shubhamp98.github.io/)*** for complete background and contact.
+- 🌐 Visit my ***[portfolio website](https://shubhamp98.github.io/)*** for complete background and contact.
 - 👨 Know more about me at ***[Sourcerer](https://sourcerer.io/shubhamp98)***
 
 ---
