@@ -34,7 +34,7 @@ I spend a large amount of my free time exploring the latest technology advanceme
 
 ## 😇 My Github Stats:
 
-[![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhamp98&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&hide=contribs&hide_border=true&line_height=24)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamp98&theme=algolia&layout=compact)](http://shubhamp98.github.io/)
+[![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubhamp98&include_all_commits=true&count_private=true&show_icons=true&theme=algolia&hide=contribs&hide_border=true&line_height=24&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamp98&theme=algolia&layout=compact)](http://shubhamp98.github.io/)
 
 ---
 
